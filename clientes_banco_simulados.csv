@@ -1,0 +1,1001 @@
+cliente_id,fecha_ultima_transaccion,frecuencia_transacciones,saldo_promedio,canal_favorito,productos_contratados,provincia
+1,2025-01-30,44,46350,App,2,La Vega
+2,2024-05-29,2,13201,Call Center,1,Santiago
+3,2024-08-15,13,30426,App,3,La Vega
+4,2025-01-26,40,18778,Sucursal,1,La Vega
+5,2025-03-02,2,46241,Sucursal,4,La Vega
+6,2024-11-05,20,43229,App,1,Santiago
+7,2025-04-22,1,22116,App,5,Santo Domingo
+8,2025-01-30,37,49364,Call Center,1,Santo Domingo
+9,2025-01-11,9,34297,Call Center,5,San Cristóbal
+10,2024-10-10,17,20342,App,5,San Cristóbal
+11,2024-06-16,9,28490,App,5,Santiago
+12,2025-02-14,11,20975,App,4,Puerto Plata
+13,2025-02-02,15,27723,App,1,Santo Domingo
+14,2024-05-18,24,24279,Web,1,San Cristóbal
+15,2024-12-12,38,13765,App,4,Santo Domingo
+16,2025-01-02,35,47678,Call Center,3,Santiago
+17,2024-12-14,30,12561,Sucursal,2,Santiago
+18,2024-07-08,31,42899,Web,1,Puerto Plata
+19,2024-08-28,49,1525,App,2,Puerto Plata
+20,2024-06-03,5,23861,Sucursal,4,Santiago
+21,2024-07-23,44,34142,Web,3,San Cristóbal
+22,2024-11-02,14,27916,Sucursal,3,Santo Domingo
+23,2024-08-09,11,45965,App,3,La Vega
+24,2024-12-03,9,5648,App,4,Puerto Plata
+25,2024-07-03,34,36133,Call Center,5,La Vega
+26,2025-04-21,12,31523,App,5,San Cristóbal
+27,2024-09-02,35,30052,App,2,Puerto Plata
+28,2024-09-19,35,35414,Web,5,La Vega
+29,2024-06-02,1,33781,Call Center,5,San Cristóbal
+30,2025-03-25,40,5599,Web,3,Santo Domingo
+31,2025-03-15,22,36046,Sucursal,3,San Cristóbal
+32,2024-11-24,29,48064,App,2,Puerto Plata
+33,2024-11-06,8,36923,Sucursal,1,Santiago
+34,2024-08-15,11,42089,Web,2,Santo Domingo
+35,2024-11-04,41,4814,App,2,La Vega
+36,2024-11-19,37,46893,App,4,Puerto Plata
+37,2025-03-23,14,36984,Web,4,Santiago
+38,2024-05-14,30,27616,Web,2,San Cristóbal
+39,2025-03-19,35,3113,Web,2,Santiago
+40,2024-09-11,21,44006,Web,2,Puerto Plata
+41,2024-06-27,37,14760,Web,5,Puerto Plata
+42,2025-01-02,5,22927,App,4,Santiago
+43,2024-07-10,19,21939,Web,2,San Cristóbal
+44,2024-12-29,14,33419,App,3,Santiago
+45,2025-04-22,26,13588,App,3,Puerto Plata
+46,2024-06-18,4,37142,Web,5,Puerto Plata
+47,2024-11-27,25,40198,Web,5,La Vega
+48,2024-08-12,45,45738,Call Center,1,La Vega
+49,2025-02-13,42,34397,App,1,Santo Domingo
+50,2024-07-01,25,17653,Web,1,Puerto Plata
+51,2025-04-29,18,11831,Web,5,La Vega
+52,2024-09-13,40,6724,Web,5,Santiago
+53,2024-08-21,8,12083,Call Center,5,San Cristóbal
+54,2024-06-01,39,46917,Call Center,3,Santiago
+55,2025-03-21,40,20816,Sucursal,5,San Cristóbal
+56,2024-06-07,14,43240,App,3,La Vega
+57,2025-02-10,32,7276,Sucursal,1,Santo Domingo
+58,2024-08-22,38,49403,Web,1,Santiago
+59,2025-04-08,33,39663,Call Center,1,Santiago
+60,2024-10-19,23,14994,Call Center,2,Santiago
+61,2025-02-21,15,24499,Sucursal,2,San Cristóbal
+62,2025-03-24,33,24040,Call Center,4,La Vega
+63,2024-05-18,25,44320,Web,4,Santiago
+64,2025-05-11,17,17959,Call Center,4,Santiago
+65,2025-03-20,33,7099,Sucursal,2,Santo Domingo
+66,2025-01-27,47,43267,Web,2,Santo Domingo
+67,2024-08-26,2,20576,Sucursal,4,La Vega
+68,2024-07-07,14,36946,Call Center,4,La Vega
+69,2024-11-03,40,7116,Sucursal,5,Puerto Plata
+70,2024-10-07,40,16563,Sucursal,4,Santo Domingo
+71,2025-03-30,39,27788,App,5,Puerto Plata
+72,2024-12-02,6,27928,Call Center,3,San Cristóbal
+73,2024-10-23,6,37336,Call Center,2,Puerto Plata
+74,2024-08-16,3,10847,Sucursal,4,Santiago
+75,2024-05-27,7,27155,App,2,Puerto Plata
+76,2024-07-13,8,15135,Call Center,2,La Vega
+77,2024-08-15,42,18774,Web,2,San Cristóbal
+78,2024-10-10,15,2742,Sucursal,3,Santiago
+79,2024-09-03,47,19309,Call Center,1,Puerto Plata
+80,2024-11-04,29,1619,Web,4,San Cristóbal
+81,2024-07-21,33,18658,Call Center,1,San Cristóbal
+82,2024-10-12,30,35707,Web,1,Santiago
+83,2024-10-17,39,21337,Sucursal,1,Puerto Plata
+84,2024-09-18,27,17001,Call Center,2,San Cristóbal
+85,2024-06-09,36,1968,Call Center,5,San Cristóbal
+86,2025-03-21,29,48614,App,2,Santo Domingo
+87,2024-08-06,38,26892,Sucursal,2,San Cristóbal
+88,2024-10-08,33,26619,Web,1,Santo Domingo
+89,2024-09-03,37,1281,Call Center,2,Puerto Plata
+90,2024-11-06,27,28420,Call Center,1,Puerto Plata
+91,2025-04-02,33,16360,Web,5,Puerto Plata
+92,2024-12-07,4,40030,Sucursal,4,La Vega
+93,2025-04-28,22,2058,App,1,Puerto Plata
+94,2024-07-16,2,21677,App,5,San Cristóbal
+95,2025-03-09,10,11724,Call Center,4,Santiago
+96,2024-06-02,5,29404,Web,3,Santo Domingo
+97,2024-06-20,10,38946,Call Center,1,La Vega
+98,2025-05-04,33,40748,Web,1,Puerto Plata
+99,2024-06-03,38,30856,App,3,Puerto Plata
+100,2025-01-04,13,10200,Sucursal,3,Santiago
+101,2024-12-28,31,34997,Web,1,Santiago
+102,2025-03-11,47,26611,App,3,La Vega
+103,2024-12-25,36,42235,Call Center,2,Santo Domingo
+104,2025-02-21,45,36057,Web,4,Puerto Plata
+105,2024-12-01,24,2239,Sucursal,4,La Vega
+106,2024-07-28,15,39138,Call Center,4,San Cristóbal
+107,2024-08-25,29,49938,Call Center,2,San Cristóbal
+108,2024-09-24,8,1125,App,3,La Vega
+109,2025-04-02,5,46272,Web,5,Puerto Plata
+110,2025-04-15,29,24857,Call Center,3,La Vega
+111,2024-12-29,47,16398,Sucursal,1,Puerto Plata
+112,2024-10-24,4,7638,Web,4,Santiago
+113,2024-06-19,12,7570,Sucursal,3,La Vega
+114,2024-08-18,45,4249,Call Center,5,Puerto Plata
+115,2025-04-10,2,10110,Sucursal,1,La Vega
+116,2025-03-26,27,41363,App,2,La Vega
+117,2025-03-12,31,14605,Sucursal,2,Puerto Plata
+118,2024-10-09,36,13115,Web,5,Puerto Plata
+119,2024-07-24,36,40062,Sucursal,1,Santo Domingo
+120,2025-02-03,26,23911,Sucursal,4,La Vega
+121,2024-11-22,43,39525,App,3,San Cristóbal
+122,2024-05-18,27,33556,Sucursal,1,La Vega
+123,2024-10-11,5,13595,Sucursal,2,La Vega
+124,2025-04-08,20,2969,Call Center,5,Puerto Plata
+125,2024-09-28,11,44753,Call Center,5,La Vega
+126,2025-02-01,10,18275,Web,3,La Vega
+127,2025-01-02,40,5470,Call Center,5,San Cristóbal
+128,2024-08-29,38,11225,Call Center,5,Puerto Plata
+129,2025-05-08,6,43324,Call Center,1,La Vega
+130,2024-10-07,8,42974,Call Center,4,Santiago
+131,2024-08-31,23,43759,App,3,Santo Domingo
+132,2024-05-19,47,24196,Call Center,1,San Cristóbal
+133,2024-08-03,26,41287,App,4,La Vega
+134,2024-10-18,46,14669,App,1,Santiago
+135,2025-04-28,43,38380,Call Center,1,La Vega
+136,2024-06-01,12,46141,Sucursal,5,La Vega
+137,2025-04-01,26,49320,App,4,Puerto Plata
+138,2024-11-15,13,48414,Sucursal,3,Puerto Plata
+139,2025-03-11,40,39006,Sucursal,3,Puerto Plata
+140,2024-05-26,18,16577,Call Center,4,Santiago
+141,2024-09-24,25,23473,Web,5,La Vega
+142,2024-09-14,33,29625,Call Center,2,Santo Domingo
+143,2025-03-22,47,16504,Web,1,San Cristóbal
+144,2025-02-06,40,25089,Web,5,Puerto Plata
+145,2024-10-03,43,37487,Call Center,4,Puerto Plata
+146,2024-09-24,12,1302,Call Center,1,La Vega
+147,2024-09-18,44,32463,Web,3,La Vega
+148,2024-12-21,36,45912,Call Center,2,Santiago
+149,2024-11-23,48,30259,Web,3,Santiago
+150,2025-04-14,4,43823,Sucursal,4,Puerto Plata
+151,2025-04-07,5,38208,Call Center,1,La Vega
+152,2025-04-30,37,31659,Sucursal,4,Santo Domingo
+153,2024-12-04,8,36840,App,1,San Cristóbal
+154,2024-06-20,42,32890,Sucursal,5,La Vega
+155,2024-11-07,49,14598,Sucursal,2,La Vega
+156,2024-09-12,28,48055,Web,5,Santiago
+157,2025-02-16,31,47733,Sucursal,5,San Cristóbal
+158,2024-08-02,9,20508,Call Center,4,Puerto Plata
+159,2025-03-08,29,43287,Web,2,La Vega
+160,2024-11-24,14,14380,App,1,Puerto Plata
+161,2025-03-29,40,27984,Call Center,1,La Vega
+162,2025-03-12,41,45633,App,3,Puerto Plata
+163,2024-12-30,22,9125,Sucursal,1,San Cristóbal
+164,2024-08-02,11,37059,Call Center,4,Santiago
+165,2025-04-15,23,5033,Call Center,5,San Cristóbal
+166,2025-01-25,1,38873,App,5,Santo Domingo
+167,2025-03-30,46,18087,Call Center,5,Santiago
+168,2024-06-07,37,41901,Call Center,2,San Cristóbal
+169,2024-07-31,21,6704,Call Center,1,Santo Domingo
+170,2024-06-16,26,8848,Sucursal,4,La Vega
+171,2025-01-05,46,22592,App,2,La Vega
+172,2024-05-30,36,46743,Call Center,3,Puerto Plata
+173,2024-09-24,23,7924,Web,4,Santiago
+174,2024-11-04,1,28208,Web,4,La Vega
+175,2024-09-30,40,20614,Web,4,Santiago
+176,2024-08-03,15,1488,Web,5,La Vega
+177,2025-01-12,21,40882,Sucursal,4,Puerto Plata
+178,2025-01-17,47,26923,Call Center,1,San Cristóbal
+179,2024-09-22,9,49508,App,4,Puerto Plata
+180,2024-08-27,9,36941,Call Center,5,Santo Domingo
+181,2024-05-19,10,30165,Sucursal,4,La Vega
+182,2024-10-27,26,2667,Web,3,Santo Domingo
+183,2024-12-27,41,27213,Sucursal,3,Santo Domingo
+184,2024-06-29,35,5114,Call Center,5,Santiago
+185,2024-11-29,25,37321,App,1,La Vega
+186,2024-09-30,26,8761,Sucursal,1,Santo Domingo
+187,2024-07-10,11,32116,App,2,San Cristóbal
+188,2024-09-21,38,34768,Sucursal,5,Santo Domingo
+189,2024-11-22,2,49406,App,4,San Cristóbal
+190,2024-12-12,7,26426,App,5,Santiago
+191,2024-07-02,18,18772,Web,2,Santo Domingo
+192,2024-12-04,27,39218,App,5,Puerto Plata
+193,2025-02-06,34,4712,Web,5,Santiago
+194,2024-09-22,27,2367,Call Center,2,San Cristóbal
+195,2024-11-14,17,41957,Call Center,1,Santiago
+196,2025-01-20,43,42781,Web,4,Santo Domingo
+197,2024-06-29,44,27200,Web,2,La Vega
+198,2025-03-22,24,4726,Sucursal,3,La Vega
+199,2024-08-18,25,24616,Sucursal,1,San Cristóbal
+200,2024-07-22,7,28723,Sucursal,3,San Cristóbal
+201,2025-01-20,6,38574,Call Center,1,La Vega
+202,2025-02-01,24,35958,Sucursal,4,San Cristóbal
+203,2025-01-20,33,10108,App,4,Santiago
+204,2025-02-21,49,13178,App,5,Puerto Plata
+205,2024-11-07,29,36643,Sucursal,3,Puerto Plata
+206,2025-01-20,43,32324,App,1,Santiago
+207,2025-05-11,22,39360,Call Center,4,Puerto Plata
+208,2025-01-03,26,18824,App,2,Santo Domingo
+209,2024-10-05,28,46360,Call Center,4,Santiago
+210,2025-03-20,21,9927,Web,2,San Cristóbal
+211,2024-06-04,49,29144,Web,1,Santiago
+212,2024-10-01,7,32010,Web,4,La Vega
+213,2024-09-30,17,23443,Web,4,San Cristóbal
+214,2025-01-07,20,15437,App,1,La Vega
+215,2025-01-03,41,45298,Sucursal,4,San Cristóbal
+216,2025-03-21,49,40778,App,2,Puerto Plata
+217,2024-11-22,20,12207,Call Center,4,Santiago
+218,2024-10-07,22,26537,App,3,Santo Domingo
+219,2024-12-04,28,36757,App,5,San Cristóbal
+220,2024-10-27,40,13040,Call Center,2,San Cristóbal
+221,2024-09-08,49,42986,Web,3,La Vega
+222,2024-06-23,7,23612,Web,1,Puerto Plata
+223,2024-10-22,1,29441,Web,2,La Vega
+224,2024-11-10,32,7471,Sucursal,5,La Vega
+225,2025-01-10,13,36631,Call Center,5,Puerto Plata
+226,2024-08-31,30,44461,Call Center,1,Santo Domingo
+227,2024-07-23,23,27523,App,1,La Vega
+228,2024-08-06,19,32348,Sucursal,2,La Vega
+229,2024-06-22,32,2177,Web,4,San Cristóbal
+230,2025-02-04,30,5760,Sucursal,1,Puerto Plata
+231,2024-10-27,29,33779,Call Center,4,Santiago
+232,2024-09-15,49,22636,Call Center,3,Santo Domingo
+233,2024-12-20,45,17353,App,5,Santo Domingo
+234,2025-02-05,29,12556,App,4,Puerto Plata
+235,2024-10-24,30,28598,Call Center,5,San Cristóbal
+236,2025-01-09,16,12563,Web,4,San Cristóbal
+237,2024-11-07,40,47819,Web,3,Puerto Plata
+238,2024-06-21,19,44790,Sucursal,1,San Cristóbal
+239,2024-05-29,18,9234,Call Center,3,Santo Domingo
+240,2024-08-27,1,26519,Call Center,1,Santo Domingo
+241,2024-12-16,14,27966,Web,1,Santiago
+242,2024-09-03,47,17173,Web,5,Puerto Plata
+243,2024-06-01,2,27987,Call Center,3,La Vega
+244,2024-12-17,28,14178,App,4,La Vega
+245,2024-12-16,49,40338,Call Center,3,Santiago
+246,2024-05-26,30,25596,Call Center,5,Santiago
+247,2024-10-26,38,34174,Web,1,San Cristóbal
+248,2024-07-09,4,42974,Web,5,Santiago
+249,2025-01-05,1,5431,App,2,Santiago
+250,2025-04-04,8,28764,App,2,La Vega
+251,2024-06-09,29,22627,Sucursal,4,San Cristóbal
+252,2024-05-18,39,40310,Call Center,5,Santiago
+253,2025-01-04,3,9906,Web,4,Santiago
+254,2024-08-19,32,37914,App,4,San Cristóbal
+255,2024-12-13,10,45814,Sucursal,2,Puerto Plata
+256,2024-07-19,10,46379,Sucursal,4,San Cristóbal
+257,2025-02-03,19,14076,Web,2,La Vega
+258,2024-08-23,46,38650,Web,1,Puerto Plata
+259,2024-09-03,34,47881,Sucursal,5,Santo Domingo
+260,2024-12-20,33,47413,App,4,San Cristóbal
+261,2024-06-01,23,7012,Sucursal,2,La Vega
+262,2025-01-21,28,8151,Call Center,3,Puerto Plata
+263,2025-03-14,32,29211,Call Center,4,San Cristóbal
+264,2025-05-11,7,28117,Web,1,Santiago
+265,2024-07-13,29,37378,App,1,San Cristóbal
+266,2024-09-01,8,43652,App,3,Santo Domingo
+267,2024-12-24,1,7894,Call Center,2,San Cristóbal
+268,2025-04-06,3,14467,Sucursal,4,Puerto Plata
+269,2024-12-04,24,32010,Web,2,Puerto Plata
+270,2025-05-04,23,43641,Sucursal,1,San Cristóbal
+271,2024-09-22,8,13289,Sucursal,2,Puerto Plata
+272,2025-02-03,47,45976,Sucursal,1,Santiago
+273,2024-12-17,37,44596,App,2,San Cristóbal
+274,2024-07-13,3,24171,Call Center,3,Santiago
+275,2024-10-17,33,35905,App,5,Santiago
+276,2025-01-02,28,21829,Call Center,3,La Vega
+277,2024-12-12,47,35054,Web,3,San Cristóbal
+278,2025-03-20,8,49478,Web,5,Puerto Plata
+279,2025-01-13,34,45139,Sucursal,5,Santiago
+280,2024-12-03,35,49713,Call Center,4,La Vega
+281,2025-01-17,32,30734,Call Center,4,San Cristóbal
+282,2025-02-27,24,8052,Call Center,3,San Cristóbal
+283,2025-01-20,14,4654,Sucursal,3,Santo Domingo
+284,2025-01-29,32,24486,Sucursal,1,Santo Domingo
+285,2024-06-07,46,19743,Web,1,Santiago
+286,2024-09-01,43,49368,App,4,Santo Domingo
+287,2024-09-28,16,25489,Call Center,4,Santiago
+288,2025-01-21,4,9636,Call Center,1,Puerto Plata
+289,2025-02-03,37,7441,App,1,Santiago
+290,2024-12-11,21,25611,Call Center,2,Santo Domingo
+291,2024-05-29,14,43435,Sucursal,2,Puerto Plata
+292,2024-06-09,31,13149,Sucursal,1,Santo Domingo
+293,2024-10-31,48,35566,Call Center,2,Santiago
+294,2024-07-07,18,43368,Sucursal,5,La Vega
+295,2024-12-01,7,22675,Sucursal,4,San Cristóbal
+296,2024-10-17,10,6495,Call Center,4,Santo Domingo
+297,2024-11-25,7,43668,Web,1,Santiago
+298,2024-12-03,33,14673,App,3,Puerto Plata
+299,2025-03-06,23,12130,Sucursal,1,Santo Domingo
+300,2024-07-28,21,23668,Web,2,Santo Domingo
+301,2024-08-09,19,16222,Sucursal,3,San Cristóbal
+302,2024-07-13,48,24669,Sucursal,2,Santiago
+303,2024-12-29,19,35068,App,5,La Vega
+304,2024-10-30,36,24253,Sucursal,2,Puerto Plata
+305,2025-01-05,29,10435,App,5,Santiago
+306,2025-04-10,18,29552,App,5,Puerto Plata
+307,2024-11-18,2,38384,App,2,Santo Domingo
+308,2025-04-21,1,17393,Web,2,San Cristóbal
+309,2024-09-17,47,11617,Call Center,5,San Cristóbal
+310,2024-12-06,5,39520,Web,3,La Vega
+311,2025-04-05,20,10852,Call Center,5,San Cristóbal
+312,2024-09-25,11,32401,Call Center,4,Santo Domingo
+313,2025-03-23,42,7295,App,5,La Vega
+314,2024-08-22,2,36993,Sucursal,3,Santiago
+315,2024-08-03,3,35084,App,4,San Cristóbal
+316,2025-04-16,23,46105,Sucursal,1,La Vega
+317,2024-09-29,12,40575,Call Center,1,Santo Domingo
+318,2024-08-09,20,37451,App,3,Puerto Plata
+319,2024-07-31,5,8227,Sucursal,5,Puerto Plata
+320,2025-02-05,37,32910,Web,2,Santo Domingo
+321,2024-08-02,38,37041,Sucursal,3,Santo Domingo
+322,2024-06-30,30,24384,App,4,Puerto Plata
+323,2024-07-13,9,1145,Web,4,La Vega
+324,2024-12-17,34,38778,Sucursal,1,Puerto Plata
+325,2025-05-09,44,17035,Sucursal,4,Santo Domingo
+326,2025-04-08,35,4040,Sucursal,3,San Cristóbal
+327,2024-11-02,22,43422,Sucursal,4,Santiago
+328,2025-03-25,44,27160,Sucursal,3,San Cristóbal
+329,2025-04-26,24,18633,Web,2,San Cristóbal
+330,2024-11-22,17,30344,Call Center,1,Santo Domingo
+331,2024-10-05,10,18014,Web,4,Puerto Plata
+332,2024-12-06,30,15996,Web,3,La Vega
+333,2025-03-28,46,42621,Web,5,San Cristóbal
+334,2025-05-07,23,12695,Call Center,1,Puerto Plata
+335,2025-02-03,32,3852,App,2,La Vega
+336,2024-09-22,17,17014,Call Center,3,San Cristóbal
+337,2025-04-06,17,28042,Web,2,La Vega
+338,2024-08-06,14,34755,Sucursal,2,Puerto Plata
+339,2024-05-29,9,41390,Sucursal,4,Santiago
+340,2024-07-15,40,24711,Web,4,Puerto Plata
+341,2024-11-13,2,27122,Sucursal,3,Santo Domingo
+342,2025-02-07,45,10160,Web,5,La Vega
+343,2025-02-03,25,28213,Sucursal,3,Santiago
+344,2024-11-06,39,40420,Call Center,5,La Vega
+345,2025-01-17,9,8421,App,2,La Vega
+346,2024-11-03,22,22400,App,1,San Cristóbal
+347,2024-09-02,43,34537,Call Center,3,Santo Domingo
+348,2024-12-03,46,18727,Call Center,3,La Vega
+349,2024-08-30,4,47882,Web,5,Puerto Plata
+350,2024-06-24,26,5358,Web,2,Puerto Plata
+351,2025-01-05,29,29482,Web,2,San Cristóbal
+352,2025-04-25,45,33117,Sucursal,5,Santo Domingo
+353,2024-08-05,34,24164,Web,2,Santo Domingo
+354,2024-10-02,23,32910,Call Center,4,Puerto Plata
+355,2025-03-20,37,33496,App,1,Santiago
+356,2025-03-16,11,45311,Sucursal,3,San Cristóbal
+357,2024-06-24,6,30371,Web,1,San Cristóbal
+358,2024-05-18,18,39467,Sucursal,3,Puerto Plata
+359,2024-11-20,21,18625,Sucursal,4,Puerto Plata
+360,2024-08-06,42,34893,Web,2,Santiago
+361,2025-01-19,36,11793,Sucursal,5,Santiago
+362,2024-07-29,41,32007,App,4,Santo Domingo
+363,2024-06-05,38,26766,Call Center,1,San Cristóbal
+364,2024-12-13,34,40532,Call Center,5,San Cristóbal
+365,2025-01-06,17,13323,App,2,Puerto Plata
+366,2024-12-09,37,46799,Sucursal,4,Santo Domingo
+367,2024-08-13,25,47820,Web,5,San Cristóbal
+368,2025-01-29,38,46408,Sucursal,4,Santo Domingo
+369,2024-07-18,12,8843,App,4,Santo Domingo
+370,2024-09-09,23,15210,Sucursal,2,Puerto Plata
+371,2024-11-18,42,17456,Call Center,3,Santo Domingo
+372,2025-04-04,22,32367,Sucursal,5,Santiago
+373,2024-11-24,21,11106,App,2,Santiago
+374,2024-09-08,27,38957,Call Center,4,La Vega
+375,2025-04-17,31,3472,Sucursal,2,Puerto Plata
+376,2024-05-23,6,7704,Sucursal,3,La Vega
+377,2024-07-11,27,4713,Call Center,5,Santiago
+378,2025-04-30,40,6051,Web,3,La Vega
+379,2024-07-01,34,11756,Call Center,1,Puerto Plata
+380,2024-07-04,12,3475,Web,5,Puerto Plata
+381,2025-04-07,45,37378,App,3,Santo Domingo
+382,2024-11-21,7,5255,App,4,San Cristóbal
+383,2025-04-23,10,15484,Call Center,5,Santo Domingo
+384,2024-06-26,45,35503,Call Center,5,Puerto Plata
+385,2024-08-22,17,9258,App,2,Santiago
+386,2024-12-22,26,41747,Web,4,Santiago
+387,2024-12-21,21,36196,App,1,Santo Domingo
+388,2025-02-10,28,46113,Call Center,3,Puerto Plata
+389,2024-05-24,46,41194,App,2,Santiago
+390,2024-06-25,2,9533,Call Center,3,Puerto Plata
+391,2024-07-29,43,33581,Call Center,1,Santiago
+392,2024-10-10,1,6249,App,1,Puerto Plata
+393,2024-06-05,36,20201,Web,5,La Vega
+394,2025-03-23,26,10686,Sucursal,1,Puerto Plata
+395,2024-12-11,29,47877,App,3,Puerto Plata
+396,2024-11-08,21,33007,Sucursal,4,Santo Domingo
+397,2025-03-11,11,1661,App,4,La Vega
+398,2024-11-04,40,45843,Sucursal,5,San Cristóbal
+399,2025-01-08,11,31137,Web,3,Santo Domingo
+400,2024-12-14,36,48556,Web,3,San Cristóbal
+401,2024-07-03,49,43828,App,1,Santiago
+402,2025-03-16,39,49604,Call Center,3,San Cristóbal
+403,2024-06-05,40,11526,Sucursal,2,Puerto Plata
+404,2024-07-12,35,4374,Call Center,1,San Cristóbal
+405,2024-11-14,34,26592,Call Center,2,Santo Domingo
+406,2024-11-24,47,29982,Call Center,5,Santo Domingo
+407,2024-06-21,24,1207,Web,4,San Cristóbal
+408,2024-08-15,22,36433,App,5,Santo Domingo
+409,2025-03-20,5,24197,App,4,Santo Domingo
+410,2025-02-01,33,34400,Web,5,San Cristóbal
+411,2024-08-22,36,4083,Web,3,La Vega
+412,2025-03-21,47,30328,App,2,La Vega
+413,2025-03-14,20,47479,Call Center,4,Santiago
+414,2025-01-25,19,43891,Sucursal,1,Santo Domingo
+415,2025-05-08,35,21103,Sucursal,2,San Cristóbal
+416,2025-01-30,43,40891,Sucursal,1,Santo Domingo
+417,2024-10-29,17,11754,Call Center,2,Puerto Plata
+418,2024-08-24,45,35447,App,2,Santo Domingo
+419,2024-05-28,43,16901,Web,5,Santo Domingo
+420,2025-03-27,34,34004,App,4,La Vega
+421,2024-05-23,9,8446,Call Center,4,San Cristóbal
+422,2024-07-06,26,38211,Web,2,Santo Domingo
+423,2024-07-09,2,49231,Call Center,3,La Vega
+424,2024-12-20,9,30301,Sucursal,3,Santiago
+425,2024-08-17,9,27116,Sucursal,1,La Vega
+426,2025-01-09,40,42323,Call Center,1,La Vega
+427,2025-01-27,17,19752,Web,5,La Vega
+428,2024-12-06,1,33376,Web,2,Santo Domingo
+429,2024-12-17,25,17669,App,1,Santo Domingo
+430,2024-12-19,43,33916,Sucursal,1,Santiago
+431,2025-01-13,40,14395,App,2,Puerto Plata
+432,2024-06-28,42,21421,App,5,Puerto Plata
+433,2024-08-11,25,27342,Call Center,1,Puerto Plata
+434,2025-02-10,39,5895,Call Center,5,Santiago
+435,2025-03-16,35,12023,App,4,Puerto Plata
+436,2024-06-01,3,11699,Sucursal,5,Puerto Plata
+437,2024-09-26,37,10715,Call Center,3,La Vega
+438,2025-01-16,44,20169,App,3,Santo Domingo
+439,2024-06-29,44,17163,App,5,Santo Domingo
+440,2024-08-07,30,6782,App,3,La Vega
+441,2025-01-06,38,23641,App,4,La Vega
+442,2025-01-04,34,19792,App,2,La Vega
+443,2025-03-16,12,36585,App,3,Santo Domingo
+444,2025-01-11,19,31682,Call Center,3,Puerto Plata
+445,2025-05-12,37,48864,Sucursal,5,La Vega
+446,2024-09-16,44,19880,App,4,Santiago
+447,2024-07-27,49,39067,Web,2,La Vega
+448,2025-02-06,17,43685,Call Center,5,San Cristóbal
+449,2025-01-07,10,19073,Call Center,5,La Vega
+450,2025-01-15,49,37035,App,4,Santo Domingo
+451,2025-03-26,47,38174,Call Center,2,La Vega
+452,2025-02-13,12,25837,App,4,San Cristóbal
+453,2024-09-18,16,18826,Sucursal,2,Santiago
+454,2024-08-14,24,25981,Sucursal,4,Puerto Plata
+455,2024-11-05,19,11382,Call Center,5,La Vega
+456,2024-11-02,8,5437,Call Center,5,San Cristóbal
+457,2025-03-05,31,6435,Web,1,San Cristóbal
+458,2024-08-08,21,25819,Call Center,3,Santiago
+459,2024-05-29,17,37875,Web,4,Santo Domingo
+460,2024-09-08,23,32982,Sucursal,1,La Vega
+461,2025-02-26,37,34328,Sucursal,3,San Cristóbal
+462,2024-12-10,16,13329,App,4,Santiago
+463,2024-12-20,6,26169,Sucursal,2,Puerto Plata
+464,2025-02-16,8,22932,Web,3,San Cristóbal
+465,2024-11-09,25,35594,Call Center,5,Santiago
+466,2024-08-01,18,12421,App,1,Santo Domingo
+467,2024-10-05,25,46033,Web,3,Santo Domingo
+468,2025-03-05,12,8629,Call Center,3,San Cristóbal
+469,2025-03-27,15,9325,App,5,San Cristóbal
+470,2025-02-08,26,29495,Sucursal,4,La Vega
+471,2024-09-17,41,32750,Web,2,Santiago
+472,2024-10-21,45,30619,Call Center,5,San Cristóbal
+473,2024-10-07,26,41461,App,2,La Vega
+474,2024-06-06,47,9264,App,4,La Vega
+475,2025-04-04,32,13686,Sucursal,3,San Cristóbal
+476,2025-02-02,10,47484,Call Center,2,Santo Domingo
+477,2024-07-28,16,25226,Sucursal,1,Santiago
+478,2024-09-01,7,7721,Sucursal,1,Santiago
+479,2024-10-03,17,21609,Call Center,5,Santo Domingo
+480,2024-05-21,23,8373,Call Center,4,San Cristóbal
+481,2025-04-20,26,39675,Call Center,5,Santiago
+482,2024-09-05,21,49895,Web,5,San Cristóbal
+483,2025-05-03,22,29937,Call Center,5,San Cristóbal
+484,2024-09-09,7,6656,App,1,La Vega
+485,2024-06-22,14,9984,Sucursal,1,Santo Domingo
+486,2025-02-02,15,30984,Web,5,San Cristóbal
+487,2024-07-27,7,9286,Call Center,1,Puerto Plata
+488,2024-11-14,9,6901,Web,4,Santo Domingo
+489,2024-10-02,48,32552,Call Center,5,Santiago
+490,2024-09-05,8,26709,Web,1,La Vega
+491,2024-12-17,23,32055,Sucursal,2,Santiago
+492,2025-02-06,29,38685,Sucursal,5,Santiago
+493,2024-08-29,18,9429,App,5,Santo Domingo
+494,2024-06-22,31,15716,App,4,Santiago
+495,2025-05-09,30,49563,Call Center,3,San Cristóbal
+496,2025-04-27,39,12138,Sucursal,3,Santiago
+497,2024-08-06,35,36298,Web,4,La Vega
+498,2024-06-11,18,24429,Web,4,La Vega
+499,2024-09-08,42,6772,Web,4,Puerto Plata
+500,2024-08-28,39,49244,App,3,La Vega
+501,2024-12-04,17,49519,Web,4,Santiago
+502,2024-06-07,14,36732,App,1,La Vega
+503,2024-12-12,31,40905,App,5,Santo Domingo
+504,2024-11-16,24,18347,Call Center,5,La Vega
+505,2024-12-01,35,17920,Web,2,San Cristóbal
+506,2025-04-10,44,32822,Web,2,Santo Domingo
+507,2024-11-15,45,47659,Sucursal,5,Puerto Plata
+508,2025-02-01,34,41108,Call Center,1,San Cristóbal
+509,2024-08-18,3,24563,Sucursal,3,Santiago
+510,2024-06-24,37,8967,Call Center,3,Santiago
+511,2025-03-09,43,46183,Web,1,Santiago
+512,2024-11-26,40,12871,App,3,San Cristóbal
+513,2024-06-17,26,29763,App,4,San Cristóbal
+514,2025-03-31,23,12916,App,5,San Cristóbal
+515,2025-03-30,44,9734,App,5,Santo Domingo
+516,2024-08-01,39,34613,App,1,Santo Domingo
+517,2025-05-01,15,29179,Sucursal,3,Santiago
+518,2025-02-07,49,36262,Call Center,2,La Vega
+519,2024-07-15,4,13677,Web,2,Santiago
+520,2024-09-02,29,19268,Sucursal,3,Puerto Plata
+521,2024-09-13,22,13330,Call Center,2,Santo Domingo
+522,2025-04-08,25,21733,App,1,San Cristóbal
+523,2024-10-10,13,38947,Call Center,1,Santo Domingo
+524,2024-06-10,18,28286,Call Center,3,San Cristóbal
+525,2025-02-12,33,7610,App,2,Puerto Plata
+526,2024-08-22,16,7430,App,1,Puerto Plata
+527,2025-02-09,45,40922,App,1,Santo Domingo
+528,2025-02-12,42,14828,Web,4,San Cristóbal
+529,2025-01-18,44,43913,App,4,Puerto Plata
+530,2025-01-28,2,32497,Web,1,Santiago
+531,2024-10-29,35,40256,App,3,Santiago
+532,2024-07-03,42,37618,Web,5,San Cristóbal
+533,2025-01-19,34,47332,Call Center,5,Santo Domingo
+534,2025-02-27,30,27526,Sucursal,1,Puerto Plata
+535,2024-10-08,13,31158,Call Center,1,Santo Domingo
+536,2024-08-09,13,26032,Call Center,1,Santiago
+537,2024-09-06,18,38846,App,3,Puerto Plata
+538,2024-11-30,32,45936,Web,4,Santo Domingo
+539,2024-05-21,32,30794,Sucursal,1,La Vega
+540,2024-11-02,35,6448,App,1,San Cristóbal
+541,2024-09-28,39,29861,App,2,San Cristóbal
+542,2024-11-17,46,29141,App,3,La Vega
+543,2025-02-03,29,10074,Call Center,1,Santiago
+544,2025-04-07,49,7406,Web,2,Puerto Plata
+545,2025-02-06,29,32823,Web,5,San Cristóbal
+546,2024-12-12,44,24291,Sucursal,1,La Vega
+547,2024-12-13,16,42568,Web,1,La Vega
+548,2024-11-04,44,33003,Web,2,Santiago
+549,2024-10-01,47,47851,App,3,Santiago
+550,2025-04-06,10,35406,App,1,Santo Domingo
+551,2024-08-18,30,24312,Call Center,5,San Cristóbal
+552,2024-11-11,25,44108,App,1,Santo Domingo
+553,2025-04-30,39,2382,App,5,La Vega
+554,2024-08-07,20,35171,App,4,Puerto Plata
+555,2024-10-08,5,42779,App,4,Puerto Plata
+556,2024-05-23,1,4292,Call Center,5,Santiago
+557,2024-05-17,30,42779,App,3,Puerto Plata
+558,2024-07-31,49,34187,Sucursal,1,Puerto Plata
+559,2024-08-13,3,13411,Sucursal,1,Puerto Plata
+560,2025-03-12,45,38285,Sucursal,4,La Vega
+561,2025-02-18,14,16422,Sucursal,5,Puerto Plata
+562,2024-10-08,30,43468,App,1,Puerto Plata
+563,2024-06-05,4,33371,Sucursal,1,Puerto Plata
+564,2024-11-07,18,6693,App,3,Santo Domingo
+565,2025-04-24,37,34535,Call Center,2,La Vega
+566,2024-11-17,25,15818,Sucursal,4,Santiago
+567,2025-02-02,48,32238,Web,4,Santo Domingo
+568,2024-09-22,1,31874,Sucursal,2,San Cristóbal
+569,2025-02-26,46,27715,Sucursal,1,La Vega
+570,2024-08-21,15,28605,App,3,La Vega
+571,2024-08-02,9,35317,Sucursal,3,San Cristóbal
+572,2024-10-19,15,32174,Web,4,San Cristóbal
+573,2024-10-02,49,10956,App,3,San Cristóbal
+574,2025-03-22,24,39908,App,2,Santiago
+575,2024-06-08,4,11837,Call Center,1,Puerto Plata
+576,2024-12-20,12,4716,Call Center,2,La Vega
+577,2025-03-05,37,5481,Sucursal,5,Puerto Plata
+578,2025-02-03,37,25282,Call Center,4,Puerto Plata
+579,2025-04-18,43,7548,Call Center,3,San Cristóbal
+580,2025-03-21,6,38605,Call Center,5,Santiago
+581,2024-12-13,39,8758,App,3,Santo Domingo
+582,2024-12-20,46,44668,App,1,Santiago
+583,2025-03-17,24,24177,App,1,Puerto Plata
+584,2025-04-04,11,25022,Call Center,1,Santiago
+585,2025-01-24,13,41761,App,3,San Cristóbal
+586,2024-11-13,34,6542,Call Center,5,Santo Domingo
+587,2025-04-01,25,26476,App,1,San Cristóbal
+588,2024-11-08,7,31784,App,5,Santo Domingo
+589,2024-10-02,4,23740,Web,3,Puerto Plata
+590,2025-01-11,8,25817,Sucursal,5,Santo Domingo
+591,2024-12-31,20,48596,Call Center,3,Santo Domingo
+592,2024-12-01,29,17052,Web,3,Santo Domingo
+593,2024-10-10,45,36153,App,4,Santiago
+594,2024-10-04,46,48076,Call Center,3,Santiago
+595,2024-09-20,10,1671,App,3,Puerto Plata
+596,2024-06-16,43,1163,Sucursal,2,Santo Domingo
+597,2024-12-18,34,42424,Web,1,La Vega
+598,2024-09-16,26,45002,Sucursal,4,Puerto Plata
+599,2025-02-26,41,5795,Web,4,Santo Domingo
+600,2025-05-04,49,11634,App,4,Santo Domingo
+601,2025-02-28,3,5798,Sucursal,2,Santiago
+602,2024-09-02,6,23420,Sucursal,3,Puerto Plata
+603,2024-09-25,5,30300,App,1,Santo Domingo
+604,2025-05-06,5,25345,Sucursal,5,Santo Domingo
+605,2024-11-20,47,11749,Call Center,3,Puerto Plata
+606,2024-12-23,23,39595,Web,2,La Vega
+607,2024-11-26,49,26121,Web,3,Puerto Plata
+608,2024-11-24,9,38487,Web,3,Puerto Plata
+609,2024-08-03,35,29411,Call Center,2,La Vega
+610,2025-01-11,20,34361,Web,4,Puerto Plata
+611,2024-10-31,49,22223,App,4,Santo Domingo
+612,2025-05-08,42,8394,Sucursal,1,Puerto Plata
+613,2025-04-14,35,15056,Call Center,1,La Vega
+614,2024-11-29,18,29380,Web,4,San Cristóbal
+615,2024-06-08,17,27035,App,5,Puerto Plata
+616,2024-12-28,24,31620,Sucursal,3,Santiago
+617,2024-06-26,3,20877,Sucursal,5,Santo Domingo
+618,2024-06-05,32,44404,Call Center,3,Santo Domingo
+619,2024-12-19,35,31911,Call Center,4,Santiago
+620,2024-06-20,38,33784,Call Center,1,Santiago
+621,2024-10-08,13,4191,App,1,Puerto Plata
+622,2024-07-16,47,34160,App,5,Santiago
+623,2025-01-01,25,26000,Call Center,1,San Cristóbal
+624,2024-07-25,9,40040,Web,4,La Vega
+625,2025-03-04,4,4631,Sucursal,5,Santiago
+626,2024-09-03,14,7172,Sucursal,3,Santiago
+627,2024-08-11,37,43080,App,1,San Cristóbal
+628,2024-05-14,34,24561,Sucursal,2,Santo Domingo
+629,2024-11-12,11,25817,Web,1,Santo Domingo
+630,2024-11-27,41,21281,Sucursal,3,Puerto Plata
+631,2025-02-11,3,29671,App,5,San Cristóbal
+632,2024-10-23,28,26364,App,3,La Vega
+633,2024-06-01,29,42674,Web,2,La Vega
+634,2025-04-24,9,28425,Web,4,San Cristóbal
+635,2025-04-04,3,29602,Sucursal,1,La Vega
+636,2025-01-07,25,24253,Sucursal,5,Santo Domingo
+637,2024-11-21,34,24472,App,4,La Vega
+638,2024-12-23,12,9080,Web,3,La Vega
+639,2024-09-13,42,8099,Web,5,San Cristóbal
+640,2024-10-05,9,26431,Web,4,San Cristóbal
+641,2025-01-07,15,32186,Sucursal,5,La Vega
+642,2025-03-16,40,48684,Web,2,Santiago
+643,2024-12-16,25,31111,App,2,San Cristóbal
+644,2024-06-30,5,40851,App,1,Puerto Plata
+645,2024-05-17,11,23614,Sucursal,1,Puerto Plata
+646,2025-05-12,34,27724,Call Center,2,Santo Domingo
+647,2024-05-30,24,42991,Sucursal,5,La Vega
+648,2024-11-04,15,5940,Call Center,2,Santiago
+649,2024-11-03,38,29758,Web,1,Santo Domingo
+650,2024-07-05,8,37224,Sucursal,2,La Vega
+651,2025-01-16,5,8788,App,2,San Cristóbal
+652,2024-12-30,48,29082,Web,5,Puerto Plata
+653,2025-03-16,26,25034,App,4,Santiago
+654,2025-03-30,18,36479,Web,1,Puerto Plata
+655,2024-11-21,6,12280,Sucursal,5,San Cristóbal
+656,2024-12-04,37,19052,Call Center,2,La Vega
+657,2024-11-21,48,17531,Web,2,San Cristóbal
+658,2024-06-30,13,23804,Call Center,4,San Cristóbal
+659,2024-07-14,28,29903,Web,1,Puerto Plata
+660,2024-12-15,5,45857,App,1,Santiago
+661,2025-02-22,13,11142,App,3,San Cristóbal
+662,2024-10-12,17,49355,Web,1,Puerto Plata
+663,2024-10-22,40,10866,Call Center,4,Santiago
+664,2024-09-03,45,5531,Sucursal,3,La Vega
+665,2024-09-26,32,46454,Sucursal,3,La Vega
+666,2024-11-30,29,39098,App,2,Santo Domingo
+667,2024-09-28,3,39278,Sucursal,2,Puerto Plata
+668,2024-12-17,40,29138,App,1,Santiago
+669,2025-04-23,34,28065,Sucursal,3,San Cristóbal
+670,2025-03-27,40,30956,Web,2,La Vega
+671,2024-09-22,27,42732,App,4,Santiago
+672,2024-07-12,13,40261,App,2,Puerto Plata
+673,2025-04-29,45,11759,Web,2,Santo Domingo
+674,2024-12-21,33,6439,App,3,La Vega
+675,2025-05-12,6,48241,Sucursal,3,Santiago
+676,2025-03-20,24,43533,Sucursal,5,Santiago
+677,2024-08-27,19,29270,App,4,Santiago
+678,2024-12-20,16,14279,Sucursal,3,Puerto Plata
+679,2025-05-01,40,40279,Call Center,1,Puerto Plata
+680,2024-06-17,28,45251,App,4,Puerto Plata
+681,2024-10-01,33,24888,Web,4,San Cristóbal
+682,2024-08-14,48,18630,Call Center,3,Santiago
+683,2024-05-20,41,36144,App,4,La Vega
+684,2024-12-08,13,32182,Web,3,Puerto Plata
+685,2025-05-05,43,26538,Sucursal,2,Puerto Plata
+686,2025-01-11,45,12824,Web,5,Santiago
+687,2024-05-30,25,33125,Call Center,2,Puerto Plata
+688,2024-11-30,42,7979,Sucursal,3,San Cristóbal
+689,2025-02-12,36,27189,App,3,San Cristóbal
+690,2024-12-28,27,43600,Sucursal,2,Puerto Plata
+691,2024-11-08,38,13504,App,1,Santiago
+692,2024-07-01,7,21669,App,1,Santiago
+693,2024-11-16,5,7910,Web,1,Santiago
+694,2025-04-15,43,47857,Web,3,Santo Domingo
+695,2024-10-05,45,35964,Web,4,Puerto Plata
+696,2024-05-21,31,21131,Call Center,3,Santiago
+697,2025-04-02,23,26227,Call Center,4,San Cristóbal
+698,2024-09-27,42,6978,Web,2,La Vega
+699,2024-11-02,10,22991,Call Center,5,La Vega
+700,2024-12-19,32,18153,Sucursal,4,Santiago
+701,2024-10-24,43,34548,Sucursal,1,La Vega
+702,2024-10-13,30,43676,Call Center,3,La Vega
+703,2024-10-05,39,40071,Call Center,2,Santo Domingo
+704,2024-09-15,31,48454,Sucursal,1,San Cristóbal
+705,2025-03-28,18,4983,App,2,San Cristóbal
+706,2025-04-08,36,10503,Sucursal,5,Santo Domingo
+707,2024-09-02,2,30921,Sucursal,3,Santo Domingo
+708,2025-02-20,14,17905,Call Center,3,La Vega
+709,2024-08-30,13,46838,Sucursal,5,Puerto Plata
+710,2024-10-28,29,24953,Call Center,3,La Vega
+711,2024-07-14,12,27806,Call Center,4,Santo Domingo
+712,2025-05-03,39,46000,Web,2,San Cristóbal
+713,2024-07-05,2,23168,Sucursal,1,La Vega
+714,2024-07-31,32,5583,App,5,Puerto Plata
+715,2024-09-13,13,39714,Web,4,La Vega
+716,2024-09-04,46,40896,Call Center,1,Santiago
+717,2025-05-08,27,12889,Call Center,1,La Vega
+718,2025-01-14,49,28413,App,5,Santo Domingo
+719,2024-07-28,41,13275,Call Center,4,San Cristóbal
+720,2025-03-09,17,3461,Sucursal,1,San Cristóbal
+721,2024-12-18,40,15291,Web,1,Santo Domingo
+722,2024-10-01,31,47804,Call Center,4,Santiago
+723,2024-09-16,34,12435,Call Center,3,Santo Domingo
+724,2024-11-17,24,28935,App,1,La Vega
+725,2024-08-19,45,34453,Sucursal,2,Santo Domingo
+726,2024-06-06,35,19544,Call Center,4,Santo Domingo
+727,2024-08-04,48,13258,App,1,Santiago
+728,2025-03-11,6,31841,Call Center,5,La Vega
+729,2024-10-08,19,49758,App,2,Puerto Plata
+730,2024-06-05,30,11736,App,1,Puerto Plata
+731,2024-07-02,7,38643,Sucursal,2,San Cristóbal
+732,2024-08-03,10,44950,Call Center,2,Santo Domingo
+733,2024-11-17,41,35964,Sucursal,3,San Cristóbal
+734,2025-02-04,32,29044,App,2,Santiago
+735,2025-01-28,34,40933,Web,3,Puerto Plata
+736,2025-02-03,28,16997,Call Center,4,Santo Domingo
+737,2024-07-06,15,15215,Web,3,Santiago
+738,2025-05-07,30,34069,Call Center,5,Santiago
+739,2024-10-28,37,24911,Sucursal,1,Santo Domingo
+740,2024-05-27,29,18030,Sucursal,4,Santiago
+741,2024-12-31,22,30334,Sucursal,4,Santo Domingo
+742,2024-05-20,4,15571,Sucursal,5,Santo Domingo
+743,2024-08-27,20,43719,Sucursal,3,La Vega
+744,2025-04-20,32,29927,Web,1,San Cristóbal
+745,2025-03-21,36,21714,Sucursal,3,Santiago
+746,2024-11-29,4,44541,App,2,Santiago
+747,2024-10-23,27,24387,App,3,La Vega
+748,2025-02-19,17,29444,Web,4,La Vega
+749,2024-12-19,12,49908,Call Center,1,La Vega
+750,2025-02-17,22,20921,App,3,Puerto Plata
+751,2025-02-24,17,14057,Call Center,1,Puerto Plata
+752,2025-05-12,10,46268,Web,1,Puerto Plata
+753,2025-03-23,1,25858,Call Center,2,Santo Domingo
+754,2024-11-21,22,49689,Call Center,2,Santiago
+755,2024-10-20,26,45638,Call Center,4,San Cristóbal
+756,2024-08-26,18,27062,Call Center,5,Santo Domingo
+757,2024-07-29,14,37850,Web,1,Santiago
+758,2025-04-09,47,47486,App,5,Santiago
+759,2024-05-30,29,21567,Sucursal,4,La Vega
+760,2025-02-07,12,30739,Call Center,1,La Vega
+761,2025-03-02,36,44285,App,1,Santo Domingo
+762,2025-04-04,35,4754,App,5,La Vega
+763,2024-12-10,12,28044,Web,3,Santiago
+764,2024-09-05,7,2724,App,2,La Vega
+765,2024-12-02,29,2376,Web,3,Puerto Plata
+766,2025-01-15,11,9706,Call Center,5,La Vega
+767,2024-08-27,33,9894,Call Center,2,Santiago
+768,2024-07-11,6,19037,Sucursal,3,Santo Domingo
+769,2024-08-18,47,19450,Sucursal,2,San Cristóbal
+770,2025-03-20,15,17406,Sucursal,1,La Vega
+771,2024-09-19,32,30725,App,3,Santiago
+772,2024-10-03,11,6926,Call Center,2,San Cristóbal
+773,2024-09-04,23,40019,Web,2,San Cristóbal
+774,2024-07-04,26,10496,Sucursal,2,Puerto Plata
+775,2025-01-21,34,37068,Web,3,San Cristóbal
+776,2024-08-31,46,30806,Web,4,Santiago
+777,2024-07-14,34,23663,Sucursal,3,Santiago
+778,2024-10-18,29,42321,Call Center,5,La Vega
+779,2024-09-26,4,37495,Sucursal,3,La Vega
+780,2024-06-06,17,23656,Web,2,La Vega
+781,2025-03-08,35,26860,Sucursal,1,San Cristóbal
+782,2025-02-27,13,17832,Web,3,San Cristóbal
+783,2025-01-30,41,39787,Web,3,Puerto Plata
+784,2024-11-02,39,49231,Sucursal,2,La Vega
+785,2024-09-03,15,22727,App,1,Santo Domingo
+786,2024-09-29,29,43815,Sucursal,1,Puerto Plata
+787,2024-07-23,29,30545,App,5,Santo Domingo
+788,2024-07-11,11,45522,Web,3,San Cristóbal
+789,2025-02-04,32,3520,Web,1,Puerto Plata
+790,2024-06-09,2,4081,App,1,Puerto Plata
+791,2024-07-31,47,35196,Web,4,Santiago
+792,2024-06-12,14,37735,App,4,San Cristóbal
+793,2024-05-31,20,40213,App,1,San Cristóbal
+794,2024-07-09,22,15566,Web,5,Puerto Plata
+795,2024-09-06,11,15042,Call Center,1,San Cristóbal
+796,2024-11-28,27,26498,App,2,Puerto Plata
+797,2024-06-12,3,12329,Sucursal,3,Santiago
+798,2025-04-13,17,32656,Sucursal,5,Puerto Plata
+799,2024-09-08,44,3159,Web,2,San Cristóbal
+800,2025-01-27,28,38900,Call Center,5,San Cristóbal
+801,2025-03-23,29,20363,Web,2,Puerto Plata
+802,2025-02-21,21,48701,Call Center,3,Puerto Plata
+803,2024-12-31,47,44241,App,3,Puerto Plata
+804,2024-08-01,16,20033,App,4,La Vega
+805,2024-12-26,37,11805,App,2,San Cristóbal
+806,2024-11-10,20,36851,App,4,San Cristóbal
+807,2024-06-17,6,27832,Sucursal,2,La Vega
+808,2024-08-13,19,14944,Sucursal,4,Puerto Plata
+809,2024-06-07,5,20873,Web,3,Santiago
+810,2025-03-05,3,41372,Call Center,5,Puerto Plata
+811,2025-04-09,1,24928,App,4,Puerto Plata
+812,2024-08-24,38,16379,App,2,La Vega
+813,2025-03-21,15,37751,Call Center,2,San Cristóbal
+814,2024-10-20,34,35546,Call Center,3,Puerto Plata
+815,2025-01-07,35,25286,Web,2,San Cristóbal
+816,2024-09-20,49,6110,Call Center,1,Santo Domingo
+817,2025-03-31,25,13087,App,5,San Cristóbal
+818,2024-09-15,24,24762,App,4,Santiago
+819,2025-01-22,12,18081,App,5,Santiago
+820,2024-09-06,18,35947,App,3,Puerto Plata
+821,2024-12-13,15,10596,App,4,San Cristóbal
+822,2024-11-11,44,39019,Web,4,Puerto Plata
+823,2024-06-11,16,43003,App,1,La Vega
+824,2025-02-07,27,19313,Web,3,Santiago
+825,2025-05-05,8,48639,App,2,Puerto Plata
+826,2024-05-18,46,2013,Sucursal,1,La Vega
+827,2024-11-10,25,24705,Sucursal,1,Puerto Plata
+828,2024-08-05,17,2828,Sucursal,5,San Cristóbal
+829,2024-10-30,29,8909,Sucursal,5,San Cristóbal
+830,2024-05-26,8,39356,Web,5,San Cristóbal
+831,2024-10-30,15,14109,Web,1,San Cristóbal
+832,2024-12-09,27,3023,Call Center,2,Santo Domingo
+833,2025-02-09,46,15537,App,4,La Vega
+834,2024-12-04,7,27661,Sucursal,5,La Vega
+835,2025-03-13,3,39659,Web,2,San Cristóbal
+836,2025-01-11,29,34848,App,3,Santo Domingo
+837,2025-03-23,44,38804,App,5,San Cristóbal
+838,2024-08-09,24,16379,Web,4,Santo Domingo
+839,2025-05-08,3,28766,Sucursal,3,San Cristóbal
+840,2025-02-10,20,44590,Call Center,3,Santiago
+841,2024-11-24,46,3563,App,4,Santiago
+842,2024-06-30,15,37060,Call Center,5,Puerto Plata
+843,2025-04-21,25,30197,Sucursal,1,San Cristóbal
+844,2024-06-21,30,4586,Sucursal,4,La Vega
+845,2025-05-12,14,17087,Call Center,4,Puerto Plata
+846,2024-12-31,7,49868,Sucursal,4,Santiago
+847,2024-09-22,17,24225,App,3,San Cristóbal
+848,2025-05-01,44,30750,Call Center,2,Puerto Plata
+849,2024-06-01,20,7643,Sucursal,1,San Cristóbal
+850,2025-03-28,36,28523,Call Center,5,Santiago
+851,2025-04-09,9,37727,App,5,Puerto Plata
+852,2025-02-24,38,12005,Sucursal,2,Santiago
+853,2024-10-07,48,44543,App,4,Santo Domingo
+854,2024-07-16,22,1161,Sucursal,1,Santiago
+855,2025-03-01,2,17029,Web,5,San Cristóbal
+856,2024-08-04,24,15226,Sucursal,5,La Vega
+857,2024-09-06,8,29731,Call Center,4,Santiago
+858,2025-03-27,11,44922,Sucursal,2,La Vega
+859,2025-01-12,13,45848,App,1,Santo Domingo
+860,2024-10-11,17,4390,App,2,Puerto Plata
+861,2024-09-16,8,6997,Sucursal,2,Puerto Plata
+862,2025-03-18,21,13693,Call Center,1,La Vega
+863,2024-05-28,18,43092,Web,1,Puerto Plata
+864,2025-01-26,30,1541,Call Center,5,Santiago
+865,2024-06-28,18,22817,Web,5,La Vega
+866,2025-03-26,46,38861,App,1,San Cristóbal
+867,2025-03-13,47,14428,Call Center,3,Santiago
+868,2024-06-10,31,44934,Web,5,Santiago
+869,2025-04-17,38,49831,Sucursal,3,Santiago
+870,2024-07-25,32,11258,App,1,San Cristóbal
+871,2024-08-29,11,17044,Sucursal,5,Santo Domingo
+872,2025-05-05,45,30411,App,2,Puerto Plata
+873,2025-01-20,25,6469,Call Center,1,La Vega
+874,2024-05-23,33,29854,Call Center,4,Santo Domingo
+875,2024-09-02,38,7256,App,3,La Vega
+876,2024-11-14,41,11720,App,1,Puerto Plata
+877,2024-10-18,8,34937,App,1,San Cristóbal
+878,2024-07-14,11,34598,Call Center,5,Santiago
+879,2025-01-06,22,2651,Web,5,Santiago
+880,2025-03-18,24,20194,Sucursal,5,San Cristóbal
+881,2024-10-11,41,26051,Sucursal,4,Santo Domingo
+882,2025-04-29,17,28386,Call Center,5,Santo Domingo
+883,2025-04-15,12,10518,Sucursal,1,La Vega
+884,2025-02-24,46,47026,App,5,San Cristóbal
+885,2024-10-09,32,17184,Web,2,Santo Domingo
+886,2024-12-10,15,34787,Sucursal,5,San Cristóbal
+887,2025-04-29,16,22621,Web,4,Puerto Plata
+888,2024-11-07,22,11028,App,2,Santiago
+889,2024-07-05,28,13448,Sucursal,1,Santiago
+890,2025-05-06,20,46253,Call Center,1,Santiago
+891,2025-05-10,33,35051,Web,3,San Cristóbal
+892,2025-01-22,10,31447,App,2,San Cristóbal
+893,2024-09-17,40,19394,Web,3,La Vega
+894,2024-05-15,32,35501,Sucursal,2,Santiago
+895,2024-09-16,33,31254,Sucursal,2,La Vega
+896,2024-08-12,2,19509,Call Center,4,Santiago
+897,2024-07-23,33,49998,App,3,La Vega
+898,2024-09-28,33,15472,App,4,La Vega
+899,2025-04-28,41,46657,Call Center,2,Puerto Plata
+900,2024-11-02,13,4471,Call Center,1,La Vega
+901,2025-01-14,30,42796,App,2,San Cristóbal
+902,2025-04-15,33,31268,Web,4,La Vega
+903,2024-10-23,13,9329,Web,3,Santiago
+904,2025-04-04,26,35865,Call Center,3,La Vega
+905,2024-08-13,22,47850,Web,4,Santo Domingo
+906,2024-09-24,39,47698,App,3,Santiago
+907,2025-02-16,2,29272,Sucursal,5,Santo Domingo
+908,2025-01-07,38,43845,Sucursal,1,Santiago
+909,2024-07-17,39,7397,Web,1,San Cristóbal
+910,2025-04-18,26,33373,Call Center,1,San Cristóbal
+911,2024-12-19,46,36525,Call Center,3,San Cristóbal
+912,2025-04-30,15,25570,Call Center,3,Santo Domingo
+913,2024-10-13,34,19284,Call Center,2,Puerto Plata
+914,2025-04-18,42,19994,Call Center,2,Santiago
+915,2025-03-06,44,24284,Web,1,San Cristóbal
+916,2025-03-07,49,18833,Sucursal,5,Santiago
+917,2024-09-22,40,26122,Sucursal,2,Santo Domingo
+918,2025-01-24,11,6017,Web,2,Puerto Plata
+919,2024-12-18,3,17370,Call Center,3,Santo Domingo
+920,2025-01-22,6,30252,Web,5,Santiago
+921,2024-09-27,9,8999,Sucursal,1,Puerto Plata
+922,2025-01-22,6,23436,App,2,Puerto Plata
+923,2025-04-09,9,43963,Web,5,Santo Domingo
+924,2025-01-22,39,3096,Call Center,5,San Cristóbal
+925,2024-08-22,31,49201,Sucursal,1,Santiago
+926,2024-09-19,32,26279,Sucursal,5,La Vega
+927,2025-02-19,41,44363,Sucursal,5,La Vega
+928,2025-04-01,12,49709,Sucursal,5,Santo Domingo
+929,2025-02-01,8,27201,Call Center,2,Santiago
+930,2025-05-07,8,20715,App,1,Santiago
+931,2024-11-14,28,30309,Sucursal,5,Santo Domingo
+932,2024-08-04,20,16078,Web,5,Santiago
+933,2024-06-27,47,6105,App,2,San Cristóbal
+934,2024-09-29,7,30312,Sucursal,1,Santo Domingo
+935,2024-07-02,11,3839,App,3,San Cristóbal
+936,2024-09-26,20,4384,Web,2,Santiago
+937,2024-07-28,16,44619,Sucursal,1,Santo Domingo
+938,2024-12-14,4,43821,Web,5,Santiago
+939,2024-08-09,6,14493,Call Center,1,Santo Domingo
+940,2024-10-27,22,18069,Sucursal,1,Santiago
+941,2025-03-04,26,47907,Sucursal,1,San Cristóbal
+942,2025-01-21,3,8531,Sucursal,3,San Cristóbal
+943,2025-05-09,41,38051,Sucursal,1,Santiago
+944,2024-05-28,42,8736,Call Center,3,Santo Domingo
+945,2024-06-16,14,8710,Sucursal,5,La Vega
+946,2024-06-29,11,2619,App,3,San Cristóbal
+947,2024-05-28,18,14975,Sucursal,5,San Cristóbal
+948,2025-02-07,12,46603,Call Center,5,La Vega
+949,2024-12-12,23,24252,Sucursal,3,Santiago
+950,2024-07-06,12,16261,App,2,Santo Domingo
+951,2024-12-27,13,2431,Call Center,4,Santiago
+952,2024-09-08,25,10067,Call Center,1,Puerto Plata
+953,2024-09-12,45,38481,App,4,San Cristóbal
+954,2025-04-12,19,28037,App,1,Puerto Plata
+955,2025-04-03,46,10557,App,1,San Cristóbal
+956,2024-09-26,36,10435,App,5,San Cristóbal
+957,2025-04-07,45,38766,App,1,Puerto Plata
+958,2024-10-02,8,1162,Call Center,1,Puerto Plata
+959,2025-05-07,29,35742,Call Center,3,Santiago
+960,2024-06-25,32,20675,Sucursal,4,Puerto Plata
+961,2024-10-05,44,9461,Sucursal,3,Santiago
+962,2025-02-27,18,18015,Web,1,Santiago
+963,2025-05-09,6,33591,Sucursal,5,Santiago
+964,2024-06-12,18,29047,Sucursal,3,San Cristóbal
+965,2024-12-30,19,35782,App,3,San Cristóbal
+966,2025-01-15,22,10833,App,2,Puerto Plata
+967,2025-02-08,37,8896,Sucursal,1,San Cristóbal
+968,2025-03-12,32,33972,Web,5,Puerto Plata
+969,2024-10-31,41,42800,App,3,San Cristóbal
+970,2024-06-12,3,31508,Sucursal,3,Santo Domingo
+971,2024-10-22,28,6347,Sucursal,5,Santo Domingo
+972,2025-04-17,10,31314,Call Center,1,Puerto Plata
+973,2024-11-21,35,3643,Web,2,San Cristóbal
+974,2024-07-17,29,41785,Call Center,3,San Cristóbal
+975,2024-12-31,15,19681,Web,2,Santiago
+976,2024-06-21,33,39328,App,4,La Vega
+977,2025-01-15,7,16892,Web,1,Puerto Plata
+978,2024-06-23,12,48299,Sucursal,4,La Vega
+979,2024-08-11,49,18073,Sucursal,4,La Vega
+980,2024-10-13,30,37768,Web,4,Puerto Plata
+981,2024-09-30,21,31682,Web,1,San Cristóbal
+982,2025-04-23,31,33262,Web,1,Puerto Plata
+983,2025-01-20,24,32358,Call Center,5,La Vega
+984,2024-12-24,20,15289,Web,2,San Cristóbal
+985,2025-03-27,37,8927,App,2,Santo Domingo
+986,2025-05-12,4,49330,Call Center,5,Puerto Plata
+987,2025-02-12,28,2171,Call Center,5,Puerto Plata
+988,2024-12-22,44,12918,Web,4,San Cristóbal
+989,2024-06-27,20,42903,App,5,Santo Domingo
+990,2025-04-05,24,40110,Call Center,3,Santo Domingo
+991,2024-07-24,49,12929,Sucursal,2,San Cristóbal
+992,2024-12-25,32,3539,Call Center,5,Santiago
+993,2024-05-22,41,37727,Web,3,Puerto Plata
+994,2024-06-14,36,46951,App,3,Puerto Plata
+995,2024-08-27,34,23669,Web,3,La Vega
+996,2024-12-03,36,6432,Sucursal,3,San Cristóbal
+997,2024-11-16,2,21644,Sucursal,4,La Vega
+998,2025-05-03,15,19745,Sucursal,3,La Vega
+999,2024-08-25,34,29228,Web,4,Santo Domingo
+1000,2024-12-26,36,35521,Call Center,4,Puerto Plata

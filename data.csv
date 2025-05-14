@@ -1,0 +1,21 @@
+cliente_id,genero,edad,fecha_ultima_transaccion,frecuencia_transacciones,saldo_promedio,ingreso_mensual,canal_favorito,productos_contratados,uso_tarjeta_credito,provincia,participa_en_promociones,usa_banca_digital,dias_desde_ultima_interaccion
+1,Masculino,68,2024-10-06,52,42936,235639,Call Center,5,Moderado,Higüey,0,0,67
+2,Femenino,64,2025-04-22,20,161444,125639,Web,2,Bajo,Santo Domingo,1,1,276
+3,Masculino,64,2025-02-10,66,108812,171587,Call Center,6,Moderado,San Cristóbal,0,1,253
+4,Masculino,21,2025-01-06,1,68875,151488,Sucursal,1,Bajo,San Cristóbal,0,0,303
+5,Masculino,24,2025-02-22,58,82782,208888,Web,4,Alto,Santo Domingo,1,1,280
+6,Femenino,62,2024-07-05,44,62700,212582,Sucursal,3,Bajo,Higüey,0,1,179
+7,Masculino,52,2024-09-17,6,9109,120781,Web,5,Moderado,La Vega,0,1,279
+8,Masculino,65,2024-11-12,50,24758,179818,Web,3,Nulo,Santo Domingo,0,1,129
+9,Masculino,26,2025-04-18,72,109592,179847,Sucursal,4,Alto,Puerto Plata,0,0,115
+10,Femenino,25,2024-12-08,20,14317,107067,Web,5,Alto,Santo Domingo,0,1,322
+11,Masculino,69,2025-05-08,14,183495,17227,Call Center,4,Nulo,Santiago,0,0,274
+12,Masculino,62,2025-01-13,5,26622,149103,Sucursal,5,Moderado,Higüey,0,0,202
+13,Masculino,34,2024-08-09,41,7800,244891,Web,2,Alto,Santiago,1,1,117
+14,Masculino,34,2025-04-25,40,36539,38000,Call Center,6,Nulo,Higüey,1,1,35
+15,Femenino,66,2024-10-27,34,134672,56253,Sucursal,5,Nulo,Higüey,1,1,106
+16,Masculino,50,2025-03-17,45,86163,115848,Sucursal,4,Bajo,San Cristóbal,0,0,249
+17,Femenino,49,2025-02-09,71,161441,72564,Call Center,1,Bajo,La Vega,0,1,152
+18,Femenino,25,2025-04-24,71,17689,125921,Web,6,Moderado,La Vega,1,0,141
+19,Femenino,36,2024-05-25,27,82459,100969,Web,2,Nulo,Higüey,1,1,295
+20,Masculino,55,2024-11-01,78,39469,127614,Sucursal,3,Bajo,Higüey,1,0,162
