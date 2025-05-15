@@ -1,0 +1,7 @@
+cliente_id,genero,edad,fecha_ultima_transaccion,frecuencia_transacciones,saldo_promedio,ingreso_mensual,canal_favorito,productos_contratados,uso_tarjeta_credito,provincia,participa_en_promociones,usa_banca_digital,dias_desde_ultima_interaccion,R,F,M,segmento,perfil_segmento
+4,Masculino,21,2025-06-01,1,68875,151488,Sucursal,1,Bajo,San Cristóbal,0,0,303,-19.0,1,68875,2,Tradicional
+6,Femenino,62,2024-05-07,44,62700,212582,Sucursal,3,Bajo,Higüey,0,1,179,371.0,44,62700,0,Dormido
+8,Masculino,65,2024-12-11,50,24758,179818,Web,3,Nulo,Santo Domingo,0,1,129,153.0,50,24758,0,Dormido
+10,Femenino,25,2024-08-12,20,14317,107067,Web,5,Alto,Santo Domingo,0,1,322,274.0,20,14317,0,Dormido
+11,Masculino,69,2025-08-05,14,183495,17227,Call Center,4,Nulo,Santiago,0,0,274,-84.0,14,183495,1,Premium
+13,Masculino,34,2024-09-08,41,7800,244891,Web,2,Alto,Santiago,1,1,117,247.0,41,7800,3,Multiproducto

@@ -1,109 +1,97 @@
-# Segmentación de Clientes Bancarios
+# Segmentación de Clientes Bancarios con Machine Learning
 
-Este proyecto implementa un sistema completo de segmentación de clientes para una institución bancaria utilizando Python, Machine Learning y visualización interactiva con Streamlit.
+Este proyecto desarrolla una solución integral para la segmentación de clientes bancarios utilizando Python, Machine Learning y visualización interactiva con Streamlit.
 
-El objetivo es ofrecer una solución práctica para identificar grupos de clientes, predecir la fuga (churn) y facilitar la toma de decisiones comerciales con base en datos reales.
+El objetivo es identificar patrones de comportamiento, agrupar clientes de manera estratégica y anticipar el riesgo de fuga (churn) para apoyar decisiones comerciales.
+
+---
 
 ## Objetivos del Proyecto
 
-- Agrupar a los clientes según su comportamiento financiero (segmentación).
-- Detectar clientes con alto riesgo de fuga (churn prediction).
-- Presentar visualmente los hallazgos mediante un dashboard interactivo.
+- Aplicar técnicas de análisis de clientes como RFM y K-Means clustering.
+- Simular la fuga de clientes (churn) con variables realistas.
+- Construir un modelo predictivo de churn usando Random Forest.
+- Visualizar la información clave en un dashboard interactivo.
+
+---
 
 ## Estructura del Proyecto
 
 proyecto_segmentacion_cliente/
-│
-├── data.csv                      # Dataset original cargado por el banco
-├── limpieza.py                   # Script que limpia y normaliza los datos
-├── rfm.py                        # Cálculo del puntaje RFM
-├── clustering.py                 # Segmentación con K-Means
-├── churn_model.py                # Modelo predictivo de churn con Random Forest
-├── dashboard.py                  # App visual e interactiva hecha con Streamlit
-├── data_quality_report.py        # Análisis automatizado de calidad de datos
-├── reporte_calidad_completo.csv  # Salida del reporte de calidad
-├── clientes_segmentados_rfm.csv  # Exportación final con RFM y segmentos
-├── README.md                     # Este archivo
+├── data.csv # Dataset base original
+├── data_limpio.csv # Dataset depurado y normalizado
+├── clientes_clusterizados.csv # Resultado con segmentos K-Means
+├── clientes_con_churn.csv # Dataset con columna de predicción churn
+├── limpieza.py # Limpieza e imputación de valores
+├── rfm.py # Cálculo del RFM Score
+├── clustering.py # Segmentación de clientes con K-Means
+├── churn_model.py # Modelo predictivo de churn
+├── dashboard.py # Dashboard interactivo en Streamlit
+├── requirements.txt # Librerías necesarias
+├── README.md # Este archivo
 
-## Limpieza de Datos
 
-Antes de hacer cualquier análisis, se aplican transformaciones para:
+---
 
-- Rellenar o eliminar datos nulos.
-- Corregir columnas como `canal_favorito`, `saldo_promedio` y `productos_contratados`.
-- Establecer límites razonables en variables como frecuencia de transacción.
+## Etapas del Proyecto
 
-Esto se hace automáticamente con el archivo `limpieza.py`.
+### 1. Limpieza de Datos (`limpieza.py`)
+- Reemplazo de valores nulos y vacíos en columnas clave.
+- Eliminación de registros sin provincia o con saldo cero.
+- Imputación de saldo promedio con la mediana.
+- Normalización de variables numéricas para clustering.
 
-## Análisis de Calidad de Datos
+### 2. Análisis RFM (`rfm.py`)
+- Cálculo de:
+  - R = Días desde la última transacción
+  - F = Frecuencia de transacciones
+  - M = Saldo promedio
+- Asignación de cuartiles (1 = mejor) para cada métrica.
+- Combinación en un **RFM Score** de tres dígitos.
+- Clasificación de clientes en perfiles como:
+  - Cliente VIP
+  - Cliente Leal
+  - Cliente en Riesgo
 
-El archivo `data_quality_report.py` genera un reporte detallado con:
+### 3. Segmentación con K-Means (`clustering.py`)
+- Variables utilizadas: R, F, M, ingreso mensual, uso de banca digital, promociones.
+- Estandarización de variables con `StandardScaler`.
+- Clustering con K-Means (`n_clusters=4`).
+- Asignación de etiquetas descriptivas:
+  - Dormidos
+  - Premium Digital
+  - Tradicional Estable
+  - Multiproducto Rentable
 
-- Porcentaje de nulos por columna
-- Duplicados
-- Valores fuera de rango según reglas de negocio
-- Resumen estadístico por campo
+### 4. Predicción de Fuga de Clientes (`churn_model.py`)
+- Simulación de variable `churn` basada en reglas de negocio:
+  - R > 180 días
+  - No uso de banca digital
+  - ≤ 2 productos contratados
+- Entrenamiento de modelo con `RandomForestClassifier`.
+- Evaluación con matriz de confusión y clasificación.
+- Cálculo de importancia de variables.
+- Exportación del dataset con columna `churn_predicho`.
 
-Resultado generado: `reporte_calidad_completo.csv`
+### 5. Visualización en Dashboard (`dashboard.py`)
+- Creado con **Streamlit**.
+- Filtros por segmento y riesgo de churn.
+- KPIs clave: saldo promedio, frecuencia, % en riesgo.
+- Gráficos interactivos: histograma (R), boxplot (M), pie chart (canal).
+- Exportación de clientes filtrados en tiempo real.
 
-Este paso permite asegurar la confiabilidad de los datos antes del análisis.
+---
 
-## Segmentación RFM
+## Requisitos del Proyecto
 
-Se calcula un RFM Score de 3 dígitos para clasificar a los clientes según:
+Instalar dependencias con:
 
-- R (Recency): Días desde la última transacción
-- F (Frequency): Número de transacciones
-- M (Monetary): Saldo promedio del cliente
-
-El resultado permite identificar a los clientes más valiosos, frecuentes o inactivos.
-
-## Clustering con K-Means
-
-Se aplica un modelo de agrupamiento automático (K-Means) para detectar patrones no visibles a simple vista. Se utilizan las variables:
-
-- R, F, M
-- Ingreso mensual
-- Uso de banca digital
-- Participación en promociones
-
-Esto agrupa a los clientes en 4 segmentos que luego pueden ser usados para campañas personalizadas.
-
-## Predicción de Fuga (Churn)
-
-Se entrena un modelo para predecir el abandono de clientes. Se considera en riesgo si:
-
-- No transacciona en más de 180 días
-- No usa banca digital
-- Tiene menos de tres productos contratados
-
-El modelo entrenado (RandomForestClassifier) ofrece métricas como precisión, matriz de confusión y reporte de clasificación.
-
-## Dashboard con Streamlit
-
-Una vez procesados los datos, se despliega un dashboard interactivo que permite:
-
-- Ver KPIs por segmento
-- Filtrar por clientes con riesgo de fuga
-- Explorar datos con gráficos de Plotly
-- Consultar el detalle de cada cliente
-
-Para ejecutar localmente:
-
-streamlit run dashboard.py
-
-## Requisitos Técnicos
-
-Instalar los paquetes necesarios:
-
+```bash
 pip install -r requirements.txt
 
-O instalar manualmente:
 
-pip install pandas scikit-learn streamlit plotly matplotlib seaborn
-
-## Autor
-
-Isaías Josué Rosario Luciano  
-Especialista de datos
+Autor
+Isaías Josué Rosario Luciano
+Analista Sr. Ciencia de Datos & Big Data
 República Dominicana
+
